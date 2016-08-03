@@ -1,0 +1,10 @@
+/Users/slonej3/Projects/CH5/CH5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Projects/CH5/CH5/bin/Debug/CH5.exe.mdb
+/Users/slonej3/Projects/CH5/CH5/bin/Debug/CH5.exe
+/Users/slonej3/Projects/CH5/CH5/obj/x86/Debug/CH5.exe
+/Users/slonej3/Projects/CH5/CH5/obj/x86/Debug/CH5.exe.mdb
+/Users/slonej3/Downloads/CH5/CH5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Downloads/CH5/CH5/bin/Debug/CH5.exe.mdb
+/Users/slonej3/Downloads/CH5/CH5/bin/Debug/CH5.exe
+/Users/slonej3/Downloads/CH5/CH5/obj/x86/Debug/CH5.exe
+/Users/slonej3/Downloads/CH5/CH5/obj/x86/Debug/CH5.exe.mdb
